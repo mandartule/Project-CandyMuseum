@@ -1,4 +1,5 @@
-#https://mandartule.github.io/Project-CandyMuseum/
+#Candy Museum<br>
+https://mandartule.github.io/Project-CandyMuseum/
 <br>
 One of the first project made using html,css and bootstrap
 <br>
